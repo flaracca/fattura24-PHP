@@ -1,2 +1,4 @@
-# fattura24
-Sorgenti PHP e VB.NET per connettersi a Fattura24
+# fattura24PHP
+Codice PHP per connettersi a Fattura24
+
+Il codice include la generazione XML, l'invio a Fattura24 e la lettura dei dati restituiti
