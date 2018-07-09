@@ -1,3 +1,4 @@
+<?php
 /*
 ** CREAZIONE DATI FATTURA IN XML
 */
@@ -82,3 +83,4 @@ $eres    = $xml->returnCode;
 $des      = $xml->description;
 $dID      = $xml->docId;
 $dNR     = $xml->docNumber;
+?>
